@@ -1,0 +1,15 @@
+<!-- pages/note/note.wxml -->
+<view class="continer">
+    <view class="box">
+        <view wx:for="{{noteItem}}" wx:for-index="key" class="item">
+       
+            <view bindtap="toNoteDetailPage" data-name="{{noteItem[key]}}">
+    
+                <image class="img" src="../img/node-fengmian.png"></image>
+               
+                <text class="text"> {{noteItem[key]}}</text>
+                
+                </view>
+            </view>
+    </view>
+</view>

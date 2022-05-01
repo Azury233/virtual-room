@@ -1,0 +1,30 @@
+/* pages/components/room/room.wxss */
+.backroom{
+    width: 100%;
+    /* height: auto; */
+    position: absolute;
+}
+.continer {
+    position: absolute;
+    width: 19rem;
+    height: 30rem;
+    border: 1px solid red;
+    left:50%;
+    transform: translateX(-50%);
+    top: 12rem;
+    display: flex;
+   justify-content: space-between;
+   flex-wrap:  wrap;
+
+}
+.site{
+    width: 4rem;
+    height: 3.5rem;
+    border: 1px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.item {
+    width: 3.5rem;
+}

@@ -1,0 +1,15 @@
+<!-- index.wxml -->
+<view class="container">
+    <view class="title">
+        <text>四五年级</text>
+    </view>
+     <button bindtap="toLearnPage">开始仔细</button>
+     <button bindtap="toRoomnPage">to room</button>
+    <view class="middle">
+        <text>654位同学正在自习</text>
+    </view>
+    <view class="footer">
+        <button bindtap="toNotePage">笔记</button>
+        <text>自习  计划  笔记  我的</text>
+    </view>
+</view>

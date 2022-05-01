@@ -1,0 +1,62 @@
+<!--pages/target/target.wxml-->
+<!-- <text>pages/target/target.wxml</text> -->
+<view class="target-container">
+    <image class="add" bindtap="siteDetail" data-name="语文" src="../img/添加目标.png" mode="widthFix"></image>
+    <image class="add" src="../img/选择文字.png" mode="widthFix"></image>
+    <view class="changyongmubiao">
+        <image class="changyong-title" src="../img/常用目标.png" mode="widthFix"></image>
+        <view class="changyong-continer">
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+            <view class="changyong-outer">
+                <image class="changyong-item" src="../img/target-icons/1.png" mode="widthFix"></image>
+                <view>语文</view>
+            </view>
+
+        </view>
+
+    </view>
+</view>

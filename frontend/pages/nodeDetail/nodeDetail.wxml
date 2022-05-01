@@ -1,0 +1,3 @@
+<!--pages/nodeDetail/nodeDetail.wxml-->
+<text>{{name}}</text>
+<view>{{list[0].value}}</view>

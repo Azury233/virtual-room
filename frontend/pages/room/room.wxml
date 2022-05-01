@@ -1,0 +1,35 @@
+<!--pages/components/room/room.wxml-->
+<view>
+    <image class="backroom" src="../img/room0.jpg" mode="widthFix"></image>
+    <view class="continer">
+
+
+        <view class="site" bindtap="siteDetail" data-type="haha">
+            <image class="item" src="../img/蓝.png " mode="widthFix"></image>
+        </view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+        <view class="site"></view>
+
+    </view>
+</view>

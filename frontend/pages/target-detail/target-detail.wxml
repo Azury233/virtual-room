@@ -1,0 +1,11 @@
+
+<view>
+    <image class="target-top" src="../img/顶部背景.png" mode="widthFix"></image>
+    <text class="text">倒计时</text>
+
+
+<view class="target-start">
+<view class="target-start-inside">开始自习</view>
+</view>
+</view>
+

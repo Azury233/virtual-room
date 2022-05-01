@@ -1,0 +1,45 @@
+/* pages/target/target.wxss */
+page{
+    background-color: rgb(248, 250, 254);
+    /* background-color: red; */
+}
+.target-container {
+    margin: 2rem;
+    /* border: 1px solid red; */
+    /* display: flex; */
+   /* justify-content: center; */
+   text-align: center;
+}
+.changyongmubiao {
+    /* border: 1px solid blue; */
+    background-color: white;
+/* width: 10rem; */
+height: 20rem;
+/* padding: ; */
+/* padding-left: 0.5rem; */
+}
+.changyong-title{
+    width: 18rem;
+    margin-top:1rem;
+}
+.changyong-item {
+width: 3rem;
+/* border: 1px solid pink; */
+
+/* flex: 0 3; */
+}
+.changyong-outer{
+    display: inline-block;
+    width: 3.5rem;
+    text-align: center;
+    border: 1px solid transparent;
+    margin-right: 1rem;
+    transform: translateX(0.5rem);
+    margin-top:1rem;
+    font-size: 0.8rem;
+    color:rgb(66,75,93);
+}
+.changyong-continer {
+    /* width: 100%; */
+    /* border: 1px solid green; */
+}

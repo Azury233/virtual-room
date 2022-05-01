@@ -1,0 +1,14 @@
+<!--pages/class/class.wxml-->
+<!-- <text>pages/class/class.wxml</text> -->
+<view class="footer">
+<view class="block back">
+    <image class="img-back" src="../img/back2.png"></image>
+</view>
+<view class="block share">
+    <image class="img-share" src="../img/share2.png"></image>
+</view>
+<view class="block choose">
+    <image class="img-choose" src="../img/choose.png"></image>
+</view>
+</view>
+<room/>
